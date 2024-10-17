@@ -1,5 +1,5 @@
 import java.util.HashMap;
-class Solution {
+class LeetCode1 {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> hashMap= new HashMap<Integer,Integer>();
         hashMap.put(nums[0], 0);
@@ -13,5 +13,12 @@ class Solution {
         }
         return null;
 
+    }
+    public static void main(String[] args) throws Exception {
+        int[] input={1,2,-2,-1};
+        LeetCode1 leetcode=new LeetCode1();
+        leetcode.twoSum(input,0);
+        
+        
     }
 }
