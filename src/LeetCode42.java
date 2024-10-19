@@ -1,7 +1,7 @@
 
 
 //接雨水
-public class LeetCode40 {
+public class LeetCode42 {
  
     // public int trap(int[] height) {
     //    int[] leftmax=new int[height.length];
@@ -45,7 +45,7 @@ public class LeetCode40 {
      }
     public static void main(String[] args) throws Exception {
         int[] input={0,1,0,2,1,0,1,3,2,1,2,1};
-        LeetCode40 leetcode=new LeetCode40();
+        LeetCode42 leetcode=new LeetCode42();
         leetcode.trap(input);
         
     }
