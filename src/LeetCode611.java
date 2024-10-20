@@ -1,5 +1,5 @@
 import java.util.Arrays;
-import java.util.HashMap;
+
 class LeetCode611 {
     public int triangleNumber(int[] nums) {
         int len=nums.length;

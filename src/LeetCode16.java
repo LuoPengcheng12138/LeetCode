@@ -1,7 +1,6 @@
 
-import java.util.ArrayList;
+
 import java.util.Arrays;
-import java.util.List;
 
 public class LeetCode16 {
 //cmpmin=Math.min(cmpmin, nums[i]+nums[l]+nums[r]);

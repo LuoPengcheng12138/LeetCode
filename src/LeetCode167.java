@@ -1,7 +1,4 @@
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class LeetCode167 {
     public int[] twoSum(int[] numbers, int target) {
