@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeetCode33",
+            "request": "launch",
+            "mainClass": "LeetCode33",
+            "projectName": "LeetCode_4e560ddf"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode162",
+            "request": "launch",
+            "mainClass": "LeetCode162",
+            "projectName": "LeetCode_4e560ddf"
+        },
+        {
+            "type": "java",
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
